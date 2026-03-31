@@ -1,6 +1,6 @@
 # DN-Design
 
-DN-Design is a toolbox for radial distribution network design with synthetic and GIS-informed workflows, including MIP-based feeder synthesis and pandapower validation.
+GeoDisNet is a toolbox for radial distribution network design with synthetic and GIS-informed workflows, including MIP-based feeder synthesis and pandapower validation.
 
 ## Installation
 
