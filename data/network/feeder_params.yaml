@@ -1,0 +1,12 @@
+root_bus: 0
+base_kv: 11.0
+base_mva: 1.0
+Z_base_ohm: 121.0
+V_ref_pu2: 1.0
+V_min_pu: 0.9
+V_max_pu: 1.1
+r_per_km_base_ohm: 0.642
+x_per_km_base_ohm: 0.083
+n_buses: 33
+n_lines: 32
+total_households: 252

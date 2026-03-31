@@ -1,0 +1,1292 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "description": "GeoDistNet real-world candidate graph \u2014 Bethnal Green, East London (E2).  Derived from OpenStreetMap (\u00a9 OpenStreetMap contributors, ODbL).  Bounding box: lon [-0.08, -0.07], lat [51.514, 51.52].  Substation root approx: lon=-0.076, lat=51.5169.  Highway types: residential|tertiary|unclassified|living_street.  Nodes are intersections/dead-ends after degree-2 simplification.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "seg_0",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07528,
+            51.51668
+          ],
+          [
+            -0.07548,
+            51.51704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_1",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07528,
+            51.51668
+          ],
+          [
+            -0.07488,
+            51.51616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_2",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07528,
+            51.51668
+          ],
+          [
+            -0.07576,
+            51.51656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_3",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07528,
+            51.51668
+          ],
+          [
+            -0.07436,
+            51.51688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_4",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07604,
+            51.51776
+          ],
+          [
+            -0.07548,
+            51.51704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_5",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07604,
+            51.51776
+          ],
+          [
+            -0.0758,
+            51.51784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_6",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07604,
+            51.51776
+          ],
+          [
+            -0.07636,
+            51.5182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_7",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0758,
+            51.5158
+          ],
+          [
+            -0.07676,
+            51.51512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_8",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0758,
+            51.5158
+          ],
+          [
+            -0.07588,
+            51.51584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_9",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0758,
+            51.5158
+          ],
+          [
+            -0.07568,
+            51.51572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_10",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07436,
+            51.51688
+          ],
+          [
+            -0.0734,
+            51.51568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_11",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07436,
+            51.51688
+          ],
+          [
+            -0.07416,
+            51.51688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_12",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0778,
+            51.51764
+          ],
+          [
+            -0.07884,
+            51.51808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_13",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0778,
+            51.51764
+          ],
+          [
+            -0.07748,
+            51.51752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_14",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0778,
+            51.51764
+          ],
+          [
+            -0.079,
+            51.5178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_15",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07816,
+            51.51852
+          ],
+          [
+            -0.07964,
+            51.51844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_16",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07816,
+            51.51852
+          ],
+          [
+            -0.07776,
+            51.51812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_17",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07816,
+            51.51852
+          ],
+          [
+            -0.07808,
+            51.51852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_18",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07844,
+            51.516
+          ],
+          [
+            -0.07788,
+            51.51576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_19",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07844,
+            51.516
+          ],
+          [
+            -0.0794,
+            51.5164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_20",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07844,
+            51.516
+          ],
+          [
+            -0.07904,
+            51.51552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_21",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07588,
+            51.51584
+          ],
+          [
+            -0.07488,
+            51.51616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_22",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07588,
+            51.51584
+          ],
+          [
+            -0.07636,
+            51.51624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_23",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07684,
+            51.51668
+          ],
+          [
+            -0.07712,
+            51.51708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_24",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07684,
+            51.51668
+          ],
+          [
+            -0.076,
+            51.51688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_25",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07684,
+            51.51668
+          ],
+          [
+            -0.07788,
+            51.51576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_26",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07684,
+            51.51668
+          ],
+          [
+            -0.07672,
+            51.51656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_27",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07808,
+            51.51852
+          ],
+          [
+            -0.07812,
+            51.519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_28",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07808,
+            51.51852
+          ],
+          [
+            -0.07756,
+            51.5186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_29",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07756,
+            51.519
+          ],
+          [
+            -0.07756,
+            51.5186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_30",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07756,
+            51.519
+          ],
+          [
+            -0.07812,
+            51.519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_31",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07756,
+            51.519
+          ],
+          [
+            -0.07704,
+            51.51904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_32",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07636,
+            51.51624
+          ],
+          [
+            -0.07576,
+            51.51656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_33",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07636,
+            51.51624
+          ],
+          [
+            -0.07672,
+            51.51656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_34",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07636,
+            51.51828
+          ],
+          [
+            -0.07628,
+            51.51904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_35",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07636,
+            51.51828
+          ],
+          [
+            -0.07636,
+            51.5182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_36",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07636,
+            51.51828
+          ],
+          [
+            -0.07716,
+            51.51836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_37",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07676,
+            51.51512
+          ],
+          [
+            -0.07712,
+            51.51532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_38",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07676,
+            51.51512
+          ],
+          [
+            -0.07632,
+            51.51488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_39",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07712,
+            51.51708
+          ],
+          [
+            -0.07748,
+            51.51752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_40",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07712,
+            51.51708
+          ],
+          [
+            -0.076,
+            51.51688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_41",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07268,
+            51.51492
+          ],
+          [
+            -0.0734,
+            51.51568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_42",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07776,
+            51.51812
+          ],
+          [
+            -0.07884,
+            51.51808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_43",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07776,
+            51.51812
+          ],
+          [
+            -0.07748,
+            51.51752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_44",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07884,
+            51.51808
+          ],
+          [
+            -0.07976,
+            51.51824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_45",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07756,
+            51.5186
+          ],
+          [
+            -0.07716,
+            51.51836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_46",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07548,
+            51.51704
+          ],
+          [
+            -0.076,
+            51.51688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_47",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07716,
+            51.51836
+          ],
+          [
+            -0.07704,
+            51.51904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_48",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.076,
+            51.51688
+          ],
+          [
+            -0.07576,
+            51.51656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_49",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07712,
+            51.51532
+          ],
+          [
+            -0.07788,
+            51.5148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_50",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07712,
+            51.51532
+          ],
+          [
+            -0.07788,
+            51.51576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_51",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07344,
+            51.51468
+          ],
+          [
+            -0.07488,
+            51.51616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_52",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07448,
+            51.51912
+          ],
+          [
+            -0.07628,
+            51.51904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_53",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0734,
+            51.51568
+          ],
+          [
+            -0.0724,
+            51.51596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_54",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07704,
+            51.51904
+          ],
+          [
+            -0.07628,
+            51.51904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_55",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07812,
+            51.519
+          ],
+          [
+            -0.07828,
+            51.51896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_56",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07448,
+            51.518
+          ],
+          [
+            -0.0758,
+            51.51784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_57",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07448,
+            51.518
+          ],
+          [
+            -0.07456,
+            51.51836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_58",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07448,
+            51.518
+          ],
+          [
+            -0.07416,
+            51.51688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_59",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07444,
+            51.51836
+          ],
+          [
+            -0.07456,
+            51.51836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_60",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0758,
+            51.51784
+          ],
+          [
+            -0.07608,
+            51.5182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_61",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07456,
+            51.51836
+          ],
+          [
+            -0.07608,
+            51.5182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_62",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07608,
+            51.5182
+          ],
+          [
+            -0.07636,
+            51.5182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seg_63",
+      "properties": {
+        "voltage_kv": 11.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.07324,
+            51.517
+          ],
+          [
+            -0.07416,
+            51.51688
+          ]
+        ]
+      }
+    }
+  ]
+}

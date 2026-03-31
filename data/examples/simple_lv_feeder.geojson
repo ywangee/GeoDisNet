@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "description": "Synthetic 3x3 LV feeder fixture for GeoDistNet tests. Node A (top-left) is the substation/root. Nodes labelled row-major A=0,0 B=0,1 C=0,2 D=1,0 E=1,1 F=1,2 G=2,0 H=2,1 I=2,2. Base coord: lon=-0.10000, lat=51.50000. dx=0.00144 deg (~100 m E), dy=0.00090 deg (~100 m N). Edges are undirected LineStrings; only geometry matters for topology extraction.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "edge_AB",
+      "properties": { "name": "A-B", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.10000, 51.50000],
+          [-0.09856, 51.50000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_BC",
+      "properties": { "name": "B-C", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.09856, 51.50000],
+          [-0.09712, 51.50000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_DE",
+      "properties": { "name": "D-E", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.10000, 51.50090],
+          [-0.09856, 51.50090]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_EF",
+      "properties": { "name": "E-F", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.09856, 51.50090],
+          [-0.09712, 51.50090]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_GH",
+      "properties": { "name": "G-H", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.10000, 51.50180],
+          [-0.09856, 51.50180]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_HI",
+      "properties": { "name": "H-I", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.09856, 51.50180],
+          [-0.09712, 51.50180]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_AD",
+      "properties": { "name": "A-D", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.10000, 51.50000],
+          [-0.10000, 51.50090]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_DG",
+      "properties": { "name": "D-G", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.10000, 51.50090],
+          [-0.10000, 51.50180]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_BE",
+      "properties": { "name": "B-E", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.09856, 51.50000],
+          [-0.09856, 51.50090]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_EH",
+      "properties": { "name": "E-H", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.09856, 51.50090],
+          [-0.09856, 51.50180]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_CF",
+      "properties": { "name": "C-F", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.09712, 51.50000],
+          [-0.09712, 51.50090]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edge_FI",
+      "properties": { "name": "F-I", "voltage_kv": 0.4 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.09712, 51.50090],
+          [-0.09712, 51.50180]
+        ]
+      }
+    }
+  ]
+}
