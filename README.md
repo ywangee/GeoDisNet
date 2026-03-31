@@ -82,14 +82,10 @@ Scenario validation additionally exports summary tables and figures
 conda run -n geodistnet pytest tests/ -v
 ```
 
-## Reproducibility Notes
+## Sample 
 
-This repository keeps source code and minimal fixtures only.
-Regeneratable outputs are not tracked, e.g.:
+<img width="867" height="839" alt="gis_melb" src="https://github.com/user-attachments/assets/2483ece0-ac41-450a-bf02-89ffa520cdce" />
 
-- `data/network_*/`
-- `data/results*/`
-- `data/comparison/`
 
 ## License
 
