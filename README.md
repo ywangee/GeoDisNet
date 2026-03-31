@@ -84,7 +84,7 @@ conda run -n geodistnet pytest tests/ -v
 
 ## Sample 
 
-<img width="867" height="839" alt="gis_melb" src="https://github.com/user-attachments/assets/2483ece0-ac41-450a-bf02-89ffa520cdce" />
+<img width="400" height="400" alt="gis_melb" src="https://github.com/user-attachments/assets/2483ece0-ac41-450a-bf02-89ffa520cdce" />
 
 
 ## License
